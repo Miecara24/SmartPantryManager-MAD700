@@ -1,4 +1,5 @@
 # Smart Pantry Manager
+Smart Pantry Manager - MAD700 Assignment by Miecara24
 
 Smart Pantry Manager is a Java Android application for reducing household food waste by recording pantry ingredients and suggesting recipes only when every required ingredient is available in the required quantity.
 
